@@ -21,7 +21,7 @@
     - 탐색 범위가 길어지기 때문에 메모리 사용량이 많아질 수 있음
 - **예시:**
 
-![bfs.gif](bfs.gif)
+![Image](https://github.com/user-attachments/assets/0aa531c2-3a73-4bde-b97c-607607bdc794)
 
 - **예제 코드**
 
@@ -100,7 +100,7 @@ int main() {
     - BFS보다 메모리 사용량이 적은 경우가 많음
 - **예시:**
 
-![dfs.gif](dfs.gif)
+![Image](https://github.com/user-attachments/assets/c87f6080-f44f-44b1-9ba1-0162e14093a7)
 
 - **예제 코드**
 
