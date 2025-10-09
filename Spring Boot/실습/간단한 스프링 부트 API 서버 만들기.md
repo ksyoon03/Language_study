@@ -5,16 +5,16 @@
 - [Sping Initializer](https://start.spring.io/) ← 링크 접속
     - 접속 후 설정
 
-![image.png](image.png)
+<img width="840" height="742" alt="Image" src="https://github.com/user-attachments/assets/6da44d4e-2077-4060-ab7a-213bf501a3f6" />
 
-![image.png](image%201.png)
+<img width="846" height="406" alt="Image" src="https://github.com/user-attachments/assets/d315c978-fb43-4c75-ac0c-9b2021c9a3ea" />
 
 ## 2. 파일 살펴보기
 
 - `src/main/java/com/example/myfirstapp` 폴더 안의 `MyFirstAppApplication.java` 파일 :
     - **프로젝트의 심장부 역할**
     
-    ![image.png](image%202.png)
+    <img width="468" height="176" alt="Image" src="https://github.com/user-attachments/assets/0228f1cf-ffb5-4d89-957b-7f476f7ca643" />
     
     ```java
     package com.example.my_first_app;
@@ -67,7 +67,7 @@ public class HelloController {
     - `http://localhost:8080/hello`
 - **실행 화면**
     
-    ![image.png](image%203.png)
+    <img width="518" height="154" alt="Image" src="https://github.com/user-attachments/assets/9a42df94-2a43-4b35-ac49-167d1deda017" />
     
 
 ## 결론
